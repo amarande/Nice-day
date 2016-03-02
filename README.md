@@ -1,2 +1,3 @@
-# Nice-day
+Hello!
+
 This is my first repository
